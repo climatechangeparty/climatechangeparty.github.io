@@ -1,2 +1,3 @@
-# username.github.io
-Website for the Climate Change Party
+# Climate Change Party
+
+The website for the Climate Change Party.
